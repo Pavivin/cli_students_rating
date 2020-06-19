@@ -1,0 +1,14 @@
+{
+    "group": "пми-22бо",
+    "progress": {
+        "1": {
+            "2019/01/01": {"plus": true, "attendance": true, "test": 3.5},
+            "2019/07/01": {"attendance": true},
+            "2019/10/01": {"plus": true, "attendance": true, "test": 5}
+        },
+        "2": {
+            "2019/01/01": {"attendance": true, "test": 1.5},
+            "2019/07/01": {"plus": true, "attendance": true}
+        }
+    }
+}
